@@ -64,14 +64,11 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 38d544f9058679be3b91                            #生成的clientID
   clientSecret: 720fa05e18016f3a6f3c136b27d5b64e18d1f172    #生成的clientSecret
-  repo: github-comments-repo    # 存储你评论 issue 的 Github 仓库名（建议直接用 GitHub Page 的仓库名）
+  repo: ydeity.github.io    # 存储你评论 issue 的 Github 仓库名（建议直接用 GitHub Page 的仓库名）
   owner: ydeity    #github用户名
   admin: ydeity
-  distractionFreeMode: true, # 是否启用类似FB的阴影遮罩
+  distractionFreeMode: true # 是否启用类似FB的阴影遮罩
   
-
-
-
 
 
 # 统计
