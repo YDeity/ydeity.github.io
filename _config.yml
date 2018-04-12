@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    # 是否开启Gitalk评论
-  clientID: 38d544f9058679be3b91                            # 生成的clientID
-  clientSecret: 5bbaf4d648897763d5bd515505b2b8cd64f83328    # 生成的clientSecret
+  clientID: 4eacfceceb0ec57ec3ec                            # 生成的clientID
+  clientSecret: 4cfcc9278720659679d9ebb61e839cc2622f09e7    # 生成的clientSecret
   repo: ydeity.github.io    # 存储你评论 issue 的 Github 仓库名（建议直接用 GitHub Page 的仓库名）
-  owner: YDeity    # github用户名
-  admin: YDeity
+  owner: ydeity    # github用户名
+  admin: ydeity
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
   
 
