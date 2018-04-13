@@ -4,7 +4,7 @@ SEOTitle: 源神的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: meetliuyuan@163.com
 description: "Every failure is leading towards success."
-keyword: "源神的博客, YDeity, 刘源, java, docker, linux"
+keyword: "源神的博客, YDeity, 刘源, java, docker, linux,源神"
 url: "https://ydeity.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/YDeity/ydeity.github.io.git" # you code repository
@@ -19,11 +19,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-# zhihu_username:     
+zhihu_username: ydeity 
 github_username:    YDeity
-# facebook_username:  
+facebook_username: ydeity
 jianshu_username: 548227a1c264
-#twitter_username:   qiubaiying
+twitter_username: ydeity
 
 
 
@@ -100,16 +100,23 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Github",
+        href: "https://github.com/"
     },{
-        title: "简书·BY",
-        href: "https://www.jianshu.com/users/548227a1c264/timeline"
+        title: "掘金",
+        href: "https://juejin.im/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "知乎",
+        href: "https://www.zhihu.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Gitbook",
+        href: "https://www.gitbook.com/"
+    },{
+        title: "知识星球",
+        href: "http://blog.zsxq.com/"
+    },{
+        title: "CSDN",
+        href: "https://www.csdn.net/"
     }
 ]
+
