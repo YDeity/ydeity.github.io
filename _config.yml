@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username: 5177019657
 zhihu_username: ydeity 
 github_username:    YDeity
-facebook_username: ydeity
+# facebook_username: ydeity
 jianshu_username: 548227a1c264
-twitter_username: ydeity
+# twitter_username: ydeity
 
 
 
